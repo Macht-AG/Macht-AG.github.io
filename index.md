@@ -8,8 +8,8 @@ Unsere besondere Kompetenz in allen wichtigen Branchen und Themen verdanken wir 
 
 ## Alle wollen Macht
 
-Uns bei der Macht Consulting AG macht das gar nichts aus. 
-Marktmacht, Medienmacht, Ohnmacht… 
+Uns bei der Macht Consulting AG macht das gar nichts aus. Marktmacht, Medienmacht, Ohnmacht… 
+
 …unser Team international erfahrener Unternehmensberater und die Kooperation mit **X³ International**, verschafft Ihnen als unseren Kunden einen Wettbewerbsvorteil der Sie, Ihr Unternehmen und ihre Ideen uneinholbar an die Spitze des Marktes setzt.
 
 Das ist zuviel versprochen. Kein Wunder. Zuviel versprechen gehört genauso wie Nichts erreichen zu unseren unternehmensphilosophischen Grundsätzen.
