@@ -2,11 +2,11 @@ Mit guten Ideen kann man viel erreichen. Zum Beispiel aus einem Zwei-Mann-Büro 
 
 Deshalb gestalten wir die Atmosphäre bei der **Macht Consulting AG** und mit unseren Kunden so, dass gute Ideen entstehen können.
 
-# Kompetenz
+### Kompetenz
 
 Unsere besondere Kompetenz in allen wichtigen Branchen und Themen verdanken wir vielen Dingen: dem Wissensaustausch in unserem weltweiten Netzwerk, der langjährigen Zusammenarbeit mit unseren Kunden - und nicht zuletzt den großartigen Köpfen bei der **Macht Consulting AG**.
 
-# Alle wollen Macht
+### Alle wollen Macht
 
 Uns bei der Macht Consulting AG macht das gar nichts aus. Marktmacht, Medienmacht, Ohnmacht… 
 
