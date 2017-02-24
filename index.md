@@ -18,6 +18,6 @@ Wir heben uns, speziell durch unkonventionelle Problemlösungen und erheiternde 
 
 **_“Wenn der Kunde lächelt und die Kasse kracht haben wir's ge-Macht.”_**
 
-Schalten Sie wieder ein wenn es demnächst an dieser Stelle heißt: 
+Schalten Sie wieder ein, wenn es demnächst an dieser Stelle heißt: 
 
 **_Macht nix - Konkurs heißt Neuanfang_**
