@@ -1,6 +1,3 @@
-# Macht Consulting AG
-## Wir sind die teuersten und haben keine Ahnung.
-
 Mit guten Ideen kann man viel erreichen. Zum Beispiel aus einem Zwei-Mann-Büro die weltweit führende Strategieberatung machen.
 
 Deshalb gestalten wir die Atmosphäre bei der **Macht Consulting AG** und mit unseren Kunden so, dass gute Ideen entstehen können.
