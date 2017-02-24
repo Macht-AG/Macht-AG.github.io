@@ -2,17 +2,21 @@ Mit guten Ideen kann man viel erreichen. Zum Beispiel aus einem Zwei-Mann-Büro 
 
 Deshalb gestalten wir die Atmosphäre bei der **Macht Consulting AG** und mit unseren Kunden so, dass gute Ideen entstehen können.
 
-### Kompetenz
+## Kompetenz
 
 Unsere besondere Kompetenz in allen wichtigen Branchen und Themen verdanken wir vielen Dingen: dem Wissensaustausch in unserem weltweiten Netzwerk, der langjährigen Zusammenarbeit mit unseren Kunden - und nicht zuletzt den großartigen Köpfen bei der **Macht Consulting AG**.
 
-### Alle wollen Macht
+## Alle wollen Macht
 
 Uns bei der Macht Consulting AG macht das gar nichts aus. Marktmacht, Medienmacht, Ohnmacht… 
 
 …unser Team international erfahrener Unternehmensberater und die Kooperation mit **X³ International**, verschafft Ihnen als unseren Kunden einen Wettbewerbsvorteil der Sie, Ihr Unternehmen und ihre Ideen uneinholbar an die Spitze des Marktes setzt.
 
+## Philosophy
+
 Das ist zuviel versprochen. Kein Wunder. Zuviel versprechen gehört genauso wie Nichts erreichen zu unseren unternehmensphilosophischen Grundsätzen.
+
+## Wir machen das
 
 Wir heben uns, speziell durch unkonventionelle Problemlösungen und erheiternde Kommentare, wohltuend von der Masse gesichts- und farbloser Consulting Agencies ab.
 
