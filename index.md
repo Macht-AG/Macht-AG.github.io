@@ -1,12 +1,27 @@
-## Welcome to GitHub Pages
+# Macht Consulting AG
+### Wir sind die teuersten und haben keine Ahnung.
 
-You can use the [editor on GitHub](https://github.com/Macht-AG/Macht-AG.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Mit guten Ideen kann man viel erreichen. Zum Beispiel aus einem Zwei-Mann-Büro die weltweit führende Strategieberatung machen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Deshalb gestalten wir die Atmosphäre bei der **Macht Consulting AG** und mit unseren Kunden so, dass gute Ideen entstehen können.
 
-### Markdown
+## Kompetenz
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Unsere besondere Kompetenz in allen wichtigen Branchen und Themen verdanken wir vielen Dingen: dem Wissensaustausch in unserem weltweiten Netzwerk, der langjährigen Zusammenarbeit mit unseren Kunden - und nicht zuletzt den großartigen Köpfen bei der **Macht Consulting AG**.
+
+## Alle wollen Macht
+
+Uns bei der Macht Consulting AG macht das gar nichts aus. 
+Marktmacht, Medienmacht, Ohnmacht… 
+…unser Team international erfahrener Unternehmensberater und die Kooperation mit X³ International, verschafft Ihnen als unseren Kunden einen Wettbewerbsvorteil der Sie, Ihr Unternehmen und ihre Ideen uneinholbar an die Spitze des Marktes setzt.
+
+Das ist zuviel versprochen. Kein Wunder. Zuviel versprechen gehört genauso wie Nichts erreichen zu unseren unternehmensphilosophischen Grundsätzen.
+
+Wir heben uns, speziell durch unkonventionelle Problemlösungen und erheiternde Kommentare, wohltuend von der Masse gesichts- und farbloser Consulting Agencies ab.
+
+“Wenn der Kunde lächelt und die Kasse kracht haben wir's ge-Macht.”
+
+Schalten Sie wieder ein wenn es demnächst an dieser Stelle heißt: Macht nix - Konkurs heißt Neuanfang
 
 ```markdown
 Syntax highlighted code block
