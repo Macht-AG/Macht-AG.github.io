@@ -1,4 +1,4 @@
-<img src="Macht-Logo-100px.png" border=0 align="left" title="Macht Consulting AG" alt="Macht Consulting AG">
+<img src="Macht-Logo.png" border=0 align="left" title="Macht Consulting AG" alt="Macht Consulting AG">
 # Macht Consulting AG
 
 ## _Wir sind die teuersten und haben keine Ahnung_
