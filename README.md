@@ -1,3 +1,4 @@
+<img style="float: right;" src="Macht-Logo.png">
 # Macht Consulting AG
 
 ## Wir sind die teuersten und haben keine Ahnung
