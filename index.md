@@ -12,8 +12,6 @@ Uns bei der Macht Consulting AG macht das gar nichts aus. Marktmacht, Medienmach
 
 …unser Team international erfahrener Unternehmensberater und die Kooperation mit **X³ International**, verschafft Ihnen als unseren Kunden einen Wettbewerbsvorteil der Sie, Ihr Unternehmen und ihre Ideen uneinholbar an die Spitze des Marktes setzt.
 
-## Philosophie
-
 Das ist zuviel versprochen. Kein Wunder. Zuviel versprechen gehört genauso wie Nichts erreichen zu unseren unternehmensphilosophischen Grundsätzen.
 
 ## Wir machen das
