@@ -1,3 +1,4 @@
+![Macht Consulting AG](Macht-Logo-73px.png)
 # Macht Consulting AG
 
 ## _Wir sind die teuersten und haben keine Ahnung_
