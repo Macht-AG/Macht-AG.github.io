@@ -1,6 +1,6 @@
 # Macht Consulting AG
 
-## Wir sind die teuersten und haben keine Ahnung
+## _Wir sind die teuersten und haben keine Ahnung_
 
 Mit guten Ideen kann man viel erreichen. Zum Beispiel aus einem Zwei-Mann-Büro die weltweit führende Strategieberatung machen.
 
